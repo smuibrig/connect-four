@@ -16,7 +16,4 @@ git clone https://github.com/smuibrig/connect-four
 
 # Go inside the directory
 cd connect-four
-
-# Start development server
-node index.js
 ```
